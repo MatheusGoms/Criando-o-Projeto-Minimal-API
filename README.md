@@ -10,3 +10,7 @@ Uso do Swagger:
 Implementação de testes:
    - Criar testes automatizados para os endpoints da API, garantindo que tudo funcione como esperado.
    - Cobrir cenários de sucesso e falha, incluindo autenticação e autorização.
+
+
+dotnet new webapi -n VeiculosApi --no-https
+cd VeiculosApi
